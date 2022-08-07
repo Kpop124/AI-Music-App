@@ -1,0 +1,17 @@
+#h1{
+    color: violet;
+    background-color: black;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 10px;
+}
+#song_name{
+    color: black;
+    width: 100%;
+}
+canvas{
+    width: 300px;
+    height: 300px;
+    background-color: lightgray;
+    box-shadow: 15px;
+}
