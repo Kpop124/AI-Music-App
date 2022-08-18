@@ -1,6 +1,8 @@
 #h1{
-    color: violet;
-    background-color: black;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    background-color: transparent;
     width: 100%;
     margin-top: 0px;
     box-shadow: 10px;
